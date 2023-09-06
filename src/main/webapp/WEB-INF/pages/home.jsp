@@ -1,0 +1,1 @@
+<h1 style="color: red;text-align: center"> <a href="emp_report"><img src="resources/images/home.jpg" width="60" height="80">Generate Report</a></h1>
